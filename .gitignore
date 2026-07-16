@@ -12,6 +12,7 @@ venv/
 # PyInstaller build artifacts
 build/
 dist/
+*.spec
 
 # Toolchain (auto-downloaded by build_app.sh)
 .toolchain/
